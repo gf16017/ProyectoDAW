@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/Familia/OneDrive/Desktop/DAW codes/proyecto de clase/whiskers-wallet/src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/Familia/OneDrive/Desktop/DAW codes/proyecto de clase/whiskers-wallet/src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/Familia/OneDrive/Desktop/DAW codes/proyecto de clase/whiskers-wallet/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\Familia\\OneDrive\\Desktop\\DAW codes\\proyecto de clase\\whiskers-wallet\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\Familia\\OneDrive\\Desktop\\DAW codes\\proyecto de clase\\whiskers-wallet\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/Familia/OneDrive/Desktop/DAW codes/proyecto de clase/whiskers-wallet/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/Familia/OneDrive/Desktop/DAW codes/proyecto de clase/whiskers-wallet/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/Familia/OneDrive/Desktop/DAW codes/proyecto de clase/whiskers-wallet/src/main/frontend/generated/jar-resources",
+  "themeName": "whiskers-wallet",
+  "clientServiceWorkerSource": "C:\\Users\\Familia\\OneDrive\\Desktop\\DAW codes\\proyecto de clase\\whiskers-wallet\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
